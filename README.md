@@ -12,7 +12,7 @@
 | 总释放空间 | - | **60+ GB** |
 | 耗时 | - | 5分钟 |
 
-![效果对比](https://cdn.jsdelivr.net/gh/baizeAI-Pro/red-to-green@main/docs/images/before-after.png)
+![效果对比](https://aka.doubaocdn.com/s/63Vs5YmRfE)
 
 ---
 
