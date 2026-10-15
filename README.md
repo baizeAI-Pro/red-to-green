@@ -12,7 +12,7 @@
 | 总释放空间 | - | **60+ GB** |
 | 耗时 | - | 5分钟 |
 
-![效果对比](https://aka.doubaocdn.com/s/63Vs5YmRfE)
+![效果对比](https://cdn.statically.io/gh/baizeAI-Pro/red-to-green@main/docs/images/before-after.png)
 
 ---
 
@@ -77,7 +77,7 @@ c-disk-cleaner/
 
 ## 🧠 核心原理
 
-![工作流程](https://cdn.jsdelivr.net/gh/baizeAI-Pro/red-to-green@main/docs/images/workflow.png)
+![工作流程](https://cdn.statically.io/gh/baizeAI-Pro/red-to-green@main/docs/images/workflow.png)
 
 ### 为什么C盘总是莫名其妙满了？
 三个隐形空间杀手：
